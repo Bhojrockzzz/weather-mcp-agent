@@ -166,8 +166,8 @@ Example response returned to the agent:
 ## Step 1 – Clone Repository
 
 ```
-git clone <repository-url>
-cd task-2-weather-mcp
+git clone https://github.com/Bhojrockzzz/weather-mcp-assignment.git
+cd weather-mcp-assignment
 ```
 
 ---
@@ -290,19 +290,6 @@ POST http://localhost:3000/mcp
 * External API integration
 * Modular tool system
 * Extensible architecture
-
----
-
-# Future Improvements
-
-Possible enhancements:
-
-* Add additional MCP tools
-* Add LLM-based intent detection
-* Support multiple cities
-* Add caching for weather responses
-* Implement streaming responses
-* Deploy MCP server using Docker
 
 ---
 
