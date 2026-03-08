@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agentic AI using Weather MCP
 
 ## Assignment: Task 2 – Build an Agentic AI using Weather MCP
@@ -70,3 +71,7 @@ https://api.weather.gov/
 
 ```bash
 npm install
+=======
+# weather-mcp-agent
+Build an Agentic AI using Weather MCP
+>>>>>>> da64714afc42f86f2ae184d661ca79a0f801e4de
